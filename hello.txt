@@ -2,3 +2,4 @@ hello, git! 222
 hello, git! 333 edit on the master
 hello, git! 444 edit on the hotfix
 hello, git! 555
+hello, git!  -> modifyed by account2
